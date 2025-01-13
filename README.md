@@ -1,6 +1,6 @@
 # Sales Dashboard
 
-<img src="https://github.com/anjali-sh14/Sales-Dashboard/blob/main/sales.png?raw=true" style="width: 100% height: auto")
+<img src="https://github.com/anjali-sh14/Sales-Dashboard/blob/main/sales.png?raw=true" style="width: 100% height: auto;">
 
 This repository contains a **Sales Dashboard** built in **Power BI**. The dashboard provides a comprehensive analysis of sales data, helping businesses monitor performance and make data-driven decisions.
 
