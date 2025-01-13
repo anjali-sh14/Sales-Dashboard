@@ -1,6 +1,6 @@
 # Sales Dashboard
 
-![Sales Dashboard](sales_dashboard_preview.png)
+<img src="sales_dashboard_preview.png" alt="Sales Dashboard" width="100%" />
 
 This repository contains a **Sales Dashboard** built in **Power BI**. The dashboard provides a comprehensive analysis of sales data, helping businesses monitor performance and make data-driven decisions.
 
@@ -34,10 +34,3 @@ This repository contains a **Sales Dashboard** built in **Power BI**. The dashbo
 4. **Testing and Validation**:
    - Validated the dashboard's accuracy by cross-checking against source data.
    - Ensured the visuals respond interactively and provide actionable insights.
-
-
-![Sales Dashboard](sales_dashboard_preview.png)
-
-Or:
-
-<img src="sales_dashboard_preview.png" alt="Sales Dashboard" width="100%" />
