@@ -1,6 +1,6 @@
 # Sales Dashboard
 
-![](https://www.google.com/imgres?q=sales%20image&imgurl=https%3A%2F%2Fwww.deskera.com%2Fblog%2Fcontent%2Fimages%2F2021%2F03%2F7-step-sales-process-header%402x.png&imgrefurl=https%3A%2F%2Fwww.deskera.com%2Fblog%2Fsales-cycle%2F&docid=3ENG_7evf4pTmM&tbnid=mMgqE-SepGzzKM&vet=12ahUKEwiLr5CGnPKKAxU_4zgGHZUnLC4QM3oECGAQAA..i&w=1600&h=686&hcb=2&ved=2ahUKEwiLr5CGnPKKAxU_4zgGHZUnLC4QM3oECGAQAA)
+![]
 
 This repository contains a **Sales Dashboard** built in **Power BI**. The dashboard provides a comprehensive analysis of sales data, helping businesses monitor performance and make data-driven decisions.
 
